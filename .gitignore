@@ -1,3 +1,4 @@
 predict_NSF_award/*.db
 sdc_jobs/publisher_nbr.txt
 sdc_jobs/analysis.ipynb
+sdc_jobs/.ipynb_checkpoints/
